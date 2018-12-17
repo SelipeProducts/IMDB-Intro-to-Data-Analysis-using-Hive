@@ -7,4 +7,9 @@ Project Presentation: https://docs.google.com/presentation/d/155yDu0CItP8NqGigHK
 
 Project Manuscript: https://docs.google.com/document/d/1SrNBi6rHTBCHA38sMfy3rlN_FKbp0C_KJjfmwLMBe8c/edit?usp=sharing
 
+PowerBi Data: 
+https://app.powerbi.com/view?r=eyJrIjoiOWNhNGE4YzgtYjVkMC00ZjA0LWEzYTAtYTFmODc5MTc0ZTg1IiwidCI6ImNlOGEyMDAyLTQ0OGYtNGY1OC04MmIxLWQ4NmY3M2UzYWZkZCIsImMiOjZ9
+
+https://app.powerbi.com/view?r=eyJrIjoiZmEyOWY1ODQtMzUwNi00NWQ5LTlhMzYtYmQzYzNjNzcyZTAzIiwidCI6ImNlOGEyMDAyLTQ0OGYtNGY1OC04MmIxLWQ4NmY3M2UzYWZkZCIsImMiOjZ9
+
 The Transformed Folder: holds Excel data created from text files downloaded and extracted from IMDB
