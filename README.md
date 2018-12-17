@@ -1,5 +1,5 @@
 # IMDB-Intro-to-Data-Analysis-using-Hive
-Project Tutorial that serves as an introduction to Data Analysis using Hive and raw data download from IMDB.
+Project Tutorial that serves as an introduction to Data Analysis using Hive and raw data download from IMDB. The presentation and manuscript serves as suplementary material.
 
 Project Tutorial: https://docs.google.com/document/d/13TFihN7LSpqtt850yNXa5HxcVk6139sJGeDv87aJ07Q/edit?usp=sharing
 
